@@ -1905,6 +1905,12 @@ header .logo a {
 .popup-modal .media {
 	position: relative;
 }
+.popup-modal .media1 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 75%
+}
 .popup-modal img {
 	vertical-align: bottom;
 }
